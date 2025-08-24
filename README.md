@@ -1,4 +1,4 @@
-#TimeTo
+TimeTo
 ​A Simple GUI-Based Screen Time Tracker
 ​TimeTo is a straightforward Python-based program with a user-friendly graphical interface (GUI) that helps you monitor your screen time. It provides a quick overview of your daily and weekly computer usage.
 ​Features
